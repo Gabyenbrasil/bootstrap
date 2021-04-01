@@ -1,0 +1,36 @@
+body{
+    font: 20px arial;
+}
+
+
+.navbar{
+    background-color: rgb(244, 249, 249);
+}
+
+.alimentacaosaudavel{
+    background-color: rgb(204, 242, 244);
+}
+
+.alimentacaosaudavel h3{
+    margin-top: 25px;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
+.tiposdealimentos{
+    background-color: rgb(164, 222, 243);
+}
+
+.estilos{
+    background-color: rgb(81, 172, 213);
+}
+
+.bg-footer{
+    background-color: rgb(170,170,170);
+    padding-bottom: 25px;
+    text-align: center;
+}
+
